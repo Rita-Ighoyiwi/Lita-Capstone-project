@@ -50,9 +50,8 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
  ---
  This is where I include some basic lines of codes or queries and some Dax expressions were used during the project analysis
  
- ```Excel
-SUM =(F2 * G2)
-  
+   ```Excel
+     SUM =(F2 * G2)
 
 
 ### Data Visualization
