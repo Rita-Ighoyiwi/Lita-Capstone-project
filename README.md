@@ -23,10 +23,15 @@ The primary source of Data used here is a DataSale.xlsx and this is an open sour
 
 
 ### Data Cleaning and Preparing
-in the initail Phase of Data cleaning and preparation, i worked on the following actions;
+in the initail Phase of Data cleaning and preparation, i worked Using Microsoft Excel on the following actions;
 1. Data loading and Inspection
 2. Perform an initail exploration  of the sales data.
 3. Using Pivot Table to summarize the following.
    - Total sales by Product
    - Total sales by Region
-   - Total sales by Month 
+   - Total sales by Month
+     
+4. Use of Excel Formulas to calculate the following metrics.
+   - Average Sales per product.
+   - Total Revenue By Product.
+   
