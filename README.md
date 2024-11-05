@@ -10,3 +10,8 @@ were you need to explore Sales data to uncover key insights such as top-selling 
 
 ### Data Sources 
 The primary source of Data used here is a DataSale.xlsx and this is an open source data that can freely be downloaded from an open source such as Canvas LMS or Gmail account or any other repository site.
+
+### Tools Used
+Microsoft Excel for Data Cleaning, Analysis and Visualization.
+SQL - Structured Query Language for Quering of Data.
+GitHub - for Portfilo Building
