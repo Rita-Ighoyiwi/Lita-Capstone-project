@@ -53,5 +53,7 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
  ```Excel
 SUM =(F2 * G2)
   
+
+
 ### Data Visualization
 ---
