@@ -12,6 +12,15 @@ were you need to explore Sales data to uncover key insights such as top-selling 
 The primary source of Data used here is a DataSale.xlsx and this is an open source data that can freely be downloaded from an open source such as Canvas LMS or Gmail account or any other repository site.
 
 ### Tools Used
-Microsoft Excel for Data Cleaning, Analysis and Visualization.
-SQL - Structured Query Language for Quering of Data.
-GitHub - for Portfilo Building
+- Microsoft Excel
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization.
+   
+- SQL - Structured Query Language for Quering of Data.
+- GitHub - for Portfilo Building
+- Power Bi -
+
+
+### Data Cleaning and Preparing
+in the initail Phase of Data cleaning and preparation, i worked on the following actions
