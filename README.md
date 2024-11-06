@@ -104,7 +104,12 @@ This is where I used chart to visualize for insights to bring the performance to
 
 PowerBI is a collection of software services, apps and connectors that work together to turn your unrelated sources of data into coherent, visually immersive and interactive insights, the data vsualization tool was used to clean the data by checking the column quality, column profile and column distribution of te SaleData. this is where i made used of DAX Expression, Metrix and vsulization tools such as filter, cards, tables and Q&A to build Visuals.
 
-#### Calculating the Averages Sales for SalesData using Measures
+#### Calculating the Averages Sales, Total Revenue, Averages sales by Region and Top Performing product e.t.c for SalesData using Measures
+
+---
+
+![SaleData Table](https://github.com/user-attachments/assets/4df0609c-4639-4407-bdad-806069a177a3)
+
 
 ```Power BI
    Average sales = AVERAGE(SalesData[Total sales])
@@ -149,3 +154,21 @@ PowerBI is a collection of software services, apps and connectors that work toge
 ```
 
 ---
+
+![Table 2](https://github.com/user-attachments/assets/33c4c2fb-ba1c-4877-b028-0a77c084dfd3)
+
+---
+
+![card 1](https://github.com/user-attachments/assets/30676e09-91bf-4a7a-93b4-4b62c3fe5292)
+
+---
+
+![Charts1](https://github.com/user-attachments/assets/78335e37-6a19-4a50-a89c-a3f632132c41)
+
+---
+
+
+![Tables1](https://github.com/user-attachments/assets/92a9ef9c-7b1b-4c26-bac4-d170b8f4583d)
+
+---
+
