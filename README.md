@@ -51,23 +51,28 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
  This is where I include some basic lines of codes or queries and some DAX expressions were used during the project analysis
 
  #### Calculating total Sales
- ---
-          ```Excel
-             SUM =(F2 * G2)
-          ```
+ ```Excel
+    = SUM(F2 * G2)
+ ```
 
 #### Calculating Averages Sales Per Product
----
-         ```Excel 
-            =AVERAGEIFS(H2:H50001, C2:C50001, J6)
-         ```
+
+```Excel 
+ = AVERAGEIFS(H2:H50001, C2:C50001, J6)
+```
 #### Calculating  Total Revenue by Region
----
-        ```Excel
-          =SUMIFS(H2:H50001, D2:D50001, J16)
-      ```
-####  Summerizing the Total Sales by Product, Region and Month
----
+
+```Excel
+   = SUMIFS(H2:H50001, D2:D50001, J16)
+```
+
 
 ### Data Visualization
 ---
+
+#### Tables of Total Sales, Averages sales per product and Total Revenue by Region
+
+
+
+####  Summerizing the Total Sales by Product, Region and Month
+
