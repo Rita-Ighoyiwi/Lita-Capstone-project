@@ -76,7 +76,7 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 <img width="872" alt="Table for Total sales, average sales per product and Total Revenue by region" src="https://github.com/user-attachments/assets/07060908-3183-4c7e-ab23-5ea509f65b10">
 
 
-####  Summerizing the Total Sales by Product, Region and Month using a pivot table
+####  Summarizing the Total Sales by Product, Region and Month using a pivot table
 ---
 
 <img width="647" alt="Pivot table (Total sales by product, region and month)" src="https://github.com/user-attachments/assets/570b223d-d23f-41ec-8cd4-9e9a1fa15b21">
@@ -84,7 +84,7 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 #### Summarizing the Top Selling products, Regional Performance and Charts
 ---
 
-This is where i used chart to visualize for insights to bring the performance to life, with the use of slicer to fliter the charts for flexibity.
+This is where I used chart to visualize for insights to bring the performance to life, with the use of slicer to fliter the charts for flexibity.
 
 ---
 
