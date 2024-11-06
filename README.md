@@ -72,21 +72,30 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 
 #### Tables of Total Sales, Averages sales per product and Total Revenue by Region
 ---
+
 <img width="872" alt="Table for Total sales, average sales per product and Total Revenue by region" src="https://github.com/user-attachments/assets/07060908-3183-4c7e-ab23-5ea509f65b10">
 
 
 ####  Summerizing the Total Sales by Product, Region and Month using a pivot table
 ---
+
 <img width="647" alt="Pivot table (Total sales by product, region and month)" src="https://github.com/user-attachments/assets/570b223d-d23f-41ec-8cd4-9e9a1fa15b21">
 
 #### Summarizing the Top Selling products, Regional Performance and Charts
 ---
+
 This is where i used chart to visualize for insights to bring the performance to life, with the use of slicer to fliter the charts for flexibity.
-<img width="170" alt="Capture" src="https://github.com/user-attachments/assets/c7bbed38-91c1-4d23-bb67-c0f46e55af80">
+
 ---
+
 <img width="284" alt="Regional performance" src="https://github.com/user-attachments/assets/e12c59ff-4dc2-4235-9f1a-a1ffb644e4e1">
----
 <img width="284" alt="Regional performance 2" src="https://github.com/user-attachments/assets/4762d428-1e54-4276-8df7-e3cc97452abf">
+<img width="170" alt="Capture" src="https://github.com/user-attachments/assets/c7bbed38-91c1-4d23-bb67-c0f46e55af80">
+
+---
+
 <img width="386" alt="Sales data Report chart 1" src="https://github.com/user-attachments/assets/c66d9c31-7fb3-4c58-a280-2b7648c3d0cb">
 <img width="534" alt="Sales data Report chart 2" src="https://github.com/user-attachments/assets/904768ca-8e76-4f4f-8ffb-e6be545d07cc">
 <img width="378" alt="Sales Data report 3" src="https://github.com/user-attachments/assets/451f3402-6c88-48a0-9aa4-38ddd2d34325">
+
+---
