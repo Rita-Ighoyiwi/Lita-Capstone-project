@@ -46,7 +46,7 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
    - Regional performannce
    - Interactive charts and Slicers
  
- ### Data Analysis
+ ### Data Analysis Using Excel
  ---
  This is where I include some basic lines of codes or queries and some DAX expressions were used during the project analysis
 
@@ -99,3 +99,7 @@ This is where I used chart to visualize for insights to bring the performance to
 <img width="378" alt="Sales Data report 3" src="https://github.com/user-attachments/assets/451f3402-6c88-48a0-9aa4-38ddd2d34325">
 
 ---
+### Data Analysis Using Power BI
+---
+
+PowerBI is a collection of software services, apps and connectors that work together to turn your unrelated sources of data into coherent, visually immersive and interactive insights.
