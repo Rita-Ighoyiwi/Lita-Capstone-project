@@ -71,6 +71,8 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 ---
 
 #### Tables of Total Sales, Averages sales per product and Total Revenue by Region
+---
+
 
 
 
