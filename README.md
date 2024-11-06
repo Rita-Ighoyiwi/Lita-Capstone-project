@@ -42,9 +42,9 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 - Use of Excel Formulas to calculate the following metrics.
    - Average Sales per product.
    - Total Revenue By Product.
-   - top-selling products
-   -  regional performannce
-   -  Interactive charts and Slicers
+   - Top-selling products
+   - Regional performannce
+   - Interactive charts and Slicers
  
  ### Data Analysis
  ---
@@ -72,9 +72,13 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 
 #### Tables of Total Sales, Averages sales per product and Total Revenue by Region
 ---
+<img width="872" alt="Table for Total sales, average sales per product and Total Revenue by region" src="https://github.com/user-attachments/assets/07060908-3183-4c7e-ab23-5ea509f65b10">
 
 
+####  Summerizing the Total Sales by Product, Region and Month using a pivot table
+---
+<img width="647" alt="Pivot table (Total sales by product, region and month)" src="https://github.com/user-attachments/assets/570b223d-d23f-41ec-8cd4-9e9a1fa15b21">
 
-
-####  Summerizing the Total Sales by Product, Region and Month
+#### Summarizing the Top Selling products, Regional Performance and Charts
+---
 
