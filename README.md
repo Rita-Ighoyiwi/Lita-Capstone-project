@@ -83,14 +83,10 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
 ---
 This is where i used chart to visualize for insights to bring the performance to life, with the use of slicer to fliter the charts for flexibity.
 
-
 <img width="170" alt="Capture" src="https://github.com/user-attachments/assets/c7bbed38-91c1-4d23-bb67-c0f46e55af80">
 
 <img width="284" alt="Regional performance" src="https://github.com/user-attachments/assets/e12c59ff-4dc2-4235-9f1a-a1ffb644e4e1">
 <img width="284" alt="Regional performance 2" src="https://github.com/user-attachments/assets/4762d428-1e54-4276-8df7-e3cc97452abf">
-
 <img width="386" alt="Sales data Report chart 1" src="https://github.com/user-attachments/assets/c66d9c31-7fb3-4c58-a280-2b7648c3d0cb">
-
 <img width="534" alt="Sales data Report chart 2" src="https://github.com/user-attachments/assets/904768ca-8e76-4f4f-8ffb-e6be545d07cc">
-
 <img width="378" alt="Sales Data report 3" src="https://github.com/user-attachments/assets/451f3402-6c88-48a0-9aa4-38ddd2d34325">
