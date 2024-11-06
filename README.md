@@ -48,7 +48,7 @@ in the initail Phase of Data cleaning and preparation, i worked Using Microsoft 
  
  ### Data Analysis Using Excel
  ---
- This is where I include some basic lines of codes or queries and some DAX expressions were used during the project analysis
+ This is where I include some basic lines of codes or queries and some Excel Functions were used during the project analysis
 
  #### Calculating total Sales
  ```Excel
@@ -102,4 +102,50 @@ This is where I used chart to visualize for insights to bring the performance to
 ### Data Analysis Using Power BI
 ---
 
-PowerBI is a collection of software services, apps and connectors that work together to turn your unrelated sources of data into coherent, visually immersive and interactive insights.
+PowerBI is a collection of software services, apps and connectors that work together to turn your unrelated sources of data into coherent, visually immersive and interactive insights, the data vsualization tool was used to clean the data by checking the column quality, column profile and column distribution of te SaleData. this is where i made used of DAX Expression, Metrix and vsulization tools such as filter, cards, tables and Q&A to build Visuals.
+
+#### Calculating the Averages Sales for SalesData using Measures
+
+```Power BI
+   Average sales = AVERAGE(SalesData[Total sales])
+
+```
+
+---
+
+```Power BI
+  Average sales by region = CALCULATE(AVERAGE(SalesData[Total sales]) ,SalesData[Region]= "EAST")
+
+```
+
+---
+
+```PowerBI
+    Product Revenue = CALCULATE(SUM(SalesData[Total sales]), ALLEXCEPT(SalesData,SalesData[Product]))
+
+```
+
+---
+
+```Power BI
+    Top Performing product = SUM(SalesData[Total sales])
+
+```
+----
+
+```PowerBI
+    Total Revenue = SUM(SalesData[Total sales])
+```
+---
+
+```PowerBI
+    Total sales by Region = SUMX(VALUES(SalesData[Region]), CALCULATE(SUM(SalesData[Total sales])))
+```
+
+---
+
+```PowerBI
+    Total sales for Last Year = CALCULATE(SUM(SalesData[Total sales]),DATEADD(SalesData[OrderDate], -1,YEAR))
+```
+
+---
